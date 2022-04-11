@@ -1,0 +1,11 @@
+
+c	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¨®¸Ë
+S	java:S106"9Replace this use of System.out or System.err by a logger.(øºÑûúÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(±²ñ³
+P
+java:S1128":Remove this unused import 'com.sun.security.jgss.GSSUtil'.(¬é×‰
+[
+java:S1128"@Remove this unused import 'junit.framework.TestCase.assertTrue'.(˜ŽÚàùÿÿÿÿ
+K
+java:S1191"5Use classes from the Java API instead of Sun classes.(¬é×‰
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(§ã…±

@@ -1,0 +1,29 @@
+
+B
+java:S3416",Update this logger to use "RecordApp.class".(ıı¨ì
+c	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(É¡û»
+W
+java:S3457"AFormat specifiers should be used instead of string concatenation.(çÒ¡ó
+W
+java:S3457"AFormat specifiers should be used instead of string concatenation.(Ÿ×‰¥
+W
+java:S3457"AFormat specifiers should be used instead of string concatenation.(Œ…¦Ô
+W
+java:S3457"AFormat specifiers should be used instead of string concatenation.(úİŞš
+W
+java:S3457"AFormat specifiers should be used instead of string concatenation.(ßğˆ
+W
+java:S3457"AFormat specifiers should be used instead of string concatenation.(ó«¡Ï
+r
+java:S2629"\Invoke method(s) only conditionally. Use the built-in formatting to construct this argument.(çÒ¡ó
+r
+java:S2629"\Invoke method(s) only conditionally. Use the built-in formatting to construct this argument.(Ÿ×‰¥
+r
+java:S2629"\Invoke method(s) only conditionally. Use the built-in formatting to construct this argument.(Œ…¦Ô
+r
+java:S2629"\Invoke method(s) only conditionally. Use the built-in formatting to construct this argument.(úİŞš
+r
+java:S2629"\Invoke method(s) only conditionally. Use the built-in formatting to construct this argument.(ßğˆ
+r
+java:S2629"\Invoke method(s) only conditionally. Use the built-in formatting to construct this argument.(ó«¡Ï
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‘Ôøüıÿÿÿÿ

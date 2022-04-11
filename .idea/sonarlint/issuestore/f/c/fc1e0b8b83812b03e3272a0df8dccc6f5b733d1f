@@ -1,0 +1,17 @@
+
+h	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¢‡´¸ÿÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(š¸œøÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(‡ïÈ¶üÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(àõ²‹üÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Û£Ùèùÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(’ºñÿÿÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Ğ±º¥øÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ÌÖ­ô
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ó–•ùÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(‘ğûşûÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(’ºñÿÿÿÿÿÿ
+B
+java:S1128"-Remove this unused import 'org.slf4j.Logger'.(íØ®6
+J
+java:S1128"4Remove this unused import 'org.slf4j.LoggerFactory'.(–ÿÚŞ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(•ëó•ûÿÿÿÿ
